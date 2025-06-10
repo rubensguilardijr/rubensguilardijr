@@ -8,11 +8,7 @@
 ![PHP](https://img.shields.io/badge/php-AEB2D5?style=for-the-badge&logo=php&logoColor=black)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Advpl/TL++](https://www.totvs.com/wp-content/uploads/2019/09/logo.png)](https://tdn.totvs.com/display/tec/TLPP)
-
-
-
-
+[![Advpl/TL++](https://img.shields.io/badge/Advpl/TL++-000?style=for-the-badge&logo=totvs)](https://tdn.totvs.com/display/tec/TLPP)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubensguilardijr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
